@@ -1,4 +1,4 @@
-#ENCODED BY : MAFIYA
+#ENCODED BY : R4GH4V CHOUDHARY 
 #ENCRYPTION : Py3 MARSHAL+ZLIB+B64
 #GITHUB : https://github.com/MafiyaHunter
 #----------------------------------------------
